@@ -1,0 +1,12 @@
+{
+    "author": {
+        "mail": "",
+        "name": "",
+        "website": ""
+    },
+    "display_string": "Canvas",
+    "fa-icon": "fa fa-store",
+    "module_name": "canvas",
+    "type": "show",
+    "url_prefix": "/canvas"
+}
